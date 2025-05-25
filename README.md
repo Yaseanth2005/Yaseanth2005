@@ -1,6 +1,6 @@
 - 👋 Hi, I’m K. Yaswanth Guptha
 - 👀 I’m interested in Artificial Intelligence & Machine Learning, Large Language Models (LLMs), Conversational AI & Agents, Generative AI, and AI for Social Impact
-- 🌱 I’m currently learning Large Language Models (LLMs), Deep Learning (DL), LangChain & Agentic AI, and ML Deployment
+- 🌱 I’m currently learning Java Full-Stack, Large Language Models (LLMs), Deep Learning (DL), LangChain & Agentic AI, and ML Deployment
 - 💞️ I’m open to collaborating on AI & Machine Learning projects and continuous learning & growth
 - 📫 Reach me at: yaswanthgupthak@gmail.com
 - 😄 Pronouns: He/Him
